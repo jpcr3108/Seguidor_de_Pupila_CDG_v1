@@ -1,0 +1,11 @@
+<datos>
+    <usuario ID="270">
+        <ID>270</ID>
+        <Nombre>Ingrese Nombre</Nombre>
+        <Apellido>Ingrese Apellido</Apellido>
+        <Edad>Ingrese Edad</Edad>
+        <Genero>Masculino</Genero>
+        <Imagen_Vista>C:\openFrameworks\apps\Seguidor_de_Pupila_update_v1\Seguidor_de_Pupila_update_v1\bin\data\images\imagen.png</Imagen_Vista>
+        <Tiempo_prueba>10</Tiempo_prueba>
+    </usuario>
+</datos>

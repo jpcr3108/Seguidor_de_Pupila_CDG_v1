@@ -1,0 +1,33 @@
+<N_DIV_W>
+    <val_0>6.261111</val_0>
+</N_DIV_W>
+<N_DIV_H>
+    <val_0>6.116667</val_0>
+</N_DIV_H>
+<PRE_RECORD_TIME>
+    <val_0>0.290556</val_0>
+</PRE_RECORD_TIME>
+<RECORD_TIME>
+    <val_0>0.154444</val_0>
+</RECORD_TIME>
+<START_AUTO>
+    <val_0>0.000000</val_0>
+</START_AUTO>
+<STOP_AUTO>
+    <val_0>0.000000</val_0>
+</STOP_AUTO>
+<CALC_CALIB>
+    <val_0>0.000000</val_0>
+</CALC_CALIB>
+<RESET_CALIB>
+    <val_0>0.000000</val_0>
+</RESET_CALIB>
+<SAVE_CALIB>
+    <val_0>0.000000</val_0>
+</SAVE_CALIB>
+<LOAD_CALIB>
+    <val_0>0.000000</val_0>
+</LOAD_CALIB>
+<AMOUNT_SMOOTHING>
+    <val_0>0.970000</val_0>
+</AMOUNT_SMOOTHING>

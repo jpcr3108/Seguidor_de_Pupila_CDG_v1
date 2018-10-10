@@ -1,0 +1,7 @@
+<usuario>
+    <ID>38</ID>
+    <nombre>Ingrese Nombre</nombre>
+    <apellido>Ingrese Apellido</apellido>
+    <edad>Ingrese Edad</edad>
+    <genero>Masculino</genero>
+</usuario>

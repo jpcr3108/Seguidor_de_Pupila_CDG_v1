@@ -1,0 +1,11 @@
+<app>
+	<!-- configuracciones adicionales -->
+	<cursor>
+	
+	<!-- si se desea usar el cursor como salida. cursor mode, 0 = no usar, 1 = usar -->
+		
+		<mode>1</mode>
+		
+	</cursor>
+	
+</app>

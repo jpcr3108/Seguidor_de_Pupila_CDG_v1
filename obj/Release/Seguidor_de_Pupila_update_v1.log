@@ -1,0 +1,7 @@
+﻿  prepPrueba.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library bin\Seguidor_de_Pupila_update_v1.lib and object bin\Seguidor_de_Pupila_update_v1.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Seguidor_de_Pupila_update_v1.vcxproj -> C:\openFrameworks\apps\Seguidor_de_Pupila_update_v1\Seguidor_de_Pupila_update_v1\bin\Seguidor_de_Pupila_update_v1.exe
+  
+  	                   9	C:\openFrameworks\export\vs\Win32\

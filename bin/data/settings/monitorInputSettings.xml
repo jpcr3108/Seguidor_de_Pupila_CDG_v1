@@ -1,0 +1,14 @@
+<app>
+
+	<videoGrabber>
+
+		<!-- parametro de camaras a usar -->
+
+		<deviceId>2</deviceId>
+
+
+		<width>640</width>
+		<height>480</height>
+	</videoGrabber>
+
+</app>

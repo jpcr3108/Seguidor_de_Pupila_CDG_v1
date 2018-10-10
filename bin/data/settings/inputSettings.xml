@@ -1,0 +1,22 @@
+<app>
+	
+	<!-- input mode, 0 = live, 1 = video  -->
+
+	<mode>0</mode>
+	
+	<!-- video a cargar si se trabaja con video -->
+
+    	<videoFile>movies/temptEye.mp4</videoFile>
+
+	<videoGrabber>
+
+		<!-- Cambiar este parametro si se usa otra camara, 0 = camara predetermiada del PC -->
+
+		<deviceId>1</deviceId>
+
+
+		<width>640</width>
+		<height>480</height>
+	</videoGrabber>
+
+</app>
